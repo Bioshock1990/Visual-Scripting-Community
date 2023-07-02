@@ -25,6 +25,21 @@ I was able to restore what I could, considering that I have zero programming exp
 - LongString
 - ValueReroute
 - OnVariableChanged
+  Added Nodes :
+- Conditional node
+- Type Converter
+- Counter
+- CopyToClipboard
+- Toggle Bool
+- Delay
+- Increment/Decrement
+- Increment/Decrement Variable
+- Chance Flow
+- Limited Trigger
+- Channel Event
+- Trigger Channel Event
+- Wait for Event
+- SendEvent
 
 # Installation
 **Import the Unity package "Visual Scripting.Community" into your project and generate the nodes.**
