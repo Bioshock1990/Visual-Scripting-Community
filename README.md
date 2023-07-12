@@ -1,6 +1,7 @@
 # Visual Scripting.Community
 #### Bolt.Addons.Community for Unity Visual Scripting 2021+
 **Author:** [**Bolt.Addons.Community**](https://github.com/RealityStop/Bolt.Addons.Community)
+
 **Updated Version:** [**Fixed.Bolt.Addons.Community**](https://github.com/S2NX7/Bolt.Addons.Community)
 
 I was able to restore what I could, considering that I have zero programming experience and I'm not a professional. Some graphs were successfully restored without errors, but unfortunately, I couldn't save icons for the nodes.
