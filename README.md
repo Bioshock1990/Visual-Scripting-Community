@@ -2,7 +2,10 @@
 #### Bolt.Addons.Community for Unity Visual Scripting 2021+
 **Author:** [**Bolt.Addons.Community**](https://github.com/RealityStop/Bolt.Addons.Community)
 
-I was able to restore what I could, considering that I have zero programming experience and I'm not a professional. Some graphs were successfully restored without errors, but unfortunately, I couldn't save icons for the nodes.
+**Updated Version:** [**Fixed.Bolt.Addons.Community**](https://github.com/S2NX7/Bolt.Addons.Community)
+
+I was able to restore what I could, considering that I have zero programming experience and I'm not a professional. Some graphs were successfully restored without errors, but unfortunately, I couldn't save icons for the nodes.(**Outdated use the Updated Version**)
+
 **Tested on Unity 2022.3.1f1.**
 
 **Here's what I managed to fix:**
@@ -25,6 +28,22 @@ I was able to restore what I could, considering that I have zero programming exp
 - LongString
 - ValueReroute
 - OnVariableChanged
+
+  Added Nodes :
+- Conditional node
+- Type Converter
+- Counter
+- CopyToClipboard
+- Toggle Bool
+- Delay
+- Increment/Decrement
+- Increment/Decrement Variable
+- Chance Flow
+- Limited Trigger
+- Channel Event
+- Trigger Channel Event
+- Wait for Event
+- SendEvent
 
 # Installation
 **Import the Unity package "Visual Scripting.Community" into your project and generate the nodes.**
